@@ -1,0 +1,11 @@
+Pairs
+–––––
+-->Pair is a combination of two data types.
+-->A set of two things put together.
+
+Example:
+––––––––
+(6,5) or (a,apple) or (a,A) and etc...
+
+(To use )
+
