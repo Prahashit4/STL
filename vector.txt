@@ -7,6 +7,8 @@ Syntax
 ––––––
 vector<data_type>vector_name;
 
+(we have to use #include<vector> to deal to the vectors or else we use #include<bits/stdc++.h> in c++)
+
 Operations
 ––––––––––
 Lets us take 'v' as vector name
