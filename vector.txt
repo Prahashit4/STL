@@ -36,7 +36,7 @@ v.empty() -- It checks whether the vector is empty or not.
 v.is_sorted() -- It checks whether the vector is sorted or not.
 v.*min_element() -- It returns minimum element in the vector.
 v.*max_element() -- It returns maximum element in the vector.
-v.erase() -- It removes all the elements in the vector.
+v.erase() -- It removes the spacified element or elements.
 v.back() -- It returns the last element in the vector.
 v.front() -- It returns the front element in the vector.
 
