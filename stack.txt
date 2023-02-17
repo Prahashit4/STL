@@ -1,0 +1,3 @@
+Stack
+–––––
+Stack is a linear data structure which follows LIFO (Last In First Out).
